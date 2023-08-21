@@ -1,7 +1,7 @@
 # Bike-Sales-Visualized-Different-Ways
-## [Creating Bicycle Sales Dataset](https://github.com/bfgelfand/Bicycle-Sales-Excel/blob/main/CreatingDataset.sql)
-## [Data Analysis and Visualization using Excel](https://github.com/bfgelfand/Bicycle-Sales-Excel/blob/main/BikeStores.xlsx)
-## [Data Analysis and Visualization using Tableau]()
+## [Creating Bicycle Sales Dataset]()
+## [Data Analysis and Visualization using Excel]()
+## [Data Analysis and Visualization using Tableau](https://public.tableau.com/views/BikeStoresDashboard_16891873064490/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ### Conclusions and/or Observations
 - Overall sales were highest in the year 2017 and in the store located in New York, Baldwin Bikes.
