@@ -1,6 +1,6 @@
 # Bike-Sales-Visualized-Different-Ways
 ## [Creating Bicycle Sales Dataset]()
-## [Data Analysis and Visualization using Excel]()
+## [Data Analysis and Visualization using Excel](https://github.com/bfgelfand/Bike-Sales-Visualized-Different-Ways/blob/main/BikeStores.xlsx)
 ## [Data Analysis and Visualization using Tableau](https://public.tableau.com/views/BikeStoresDashboard_16891873064490/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ### Conclusions and/or Observations
